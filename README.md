@@ -1,10 +1,7 @@
-# Ather-hackathon 
+# Ather Hackathon
 
-This project implements an ** location tracking device** using using ESP8266 NodeMCU, MPU and NEO-6M GPS module
-
+This project implements a **location tracking device** using ESP8266 NodeMCU, MPU sensor, and NEO-6M GPS module.
 
 ## Full Documentation
 
-The complete internship report and documentation can be found here:
-
-📄 [Project Documentation PDF](.enigma/README.pdf)
+📄 [Full Project Documentation](enigma/README.pdf)
